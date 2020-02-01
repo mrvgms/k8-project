@@ -1,0 +1,3 @@
+NAME                                        STATUS   ROLES    AGE   VERSION
+gke-k8-cluster-default-pool-ab3cc1eb-gw84   Ready    <none>   10d   v1.13.11-gke.14
+gke-k8-cluster-default-pool-ab3cc1eb-k266   Ready    <none>   10d   v1.13.11-gke.14
